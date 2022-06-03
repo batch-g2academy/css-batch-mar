@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+
+span {
+    margin-top: 20px;
+    border: 2px solid salmon;
+    display: block;
+}
+
+h1, h2 {
+    font-weight: bold;
+    border: 2px solid black;
+    display: inline;
+}
+
+p {
+    border: 2px dotted violet;
+}
+
+div p {
+    color: black;
+}
+
+
+h1 {
+    color: blue;
+    margin: 10px 20px 15px 50px; 
+    padding: 10px;
+}
+
+.menu {
+    margin-left: 550px;
+}
+
+div h1 {
+    color: black;
+}
+
+h2 {
+    color: red;
+}
+
+#greeting {
+    font-weight: bold;
+    color: bisque;
+}
+
+.news {
+    color: lightseagreen;
+    font-size: 20px;
+}
+
